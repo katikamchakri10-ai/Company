@@ -177,9 +177,9 @@ Open the Django Admin panel at:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**KATIKAM CHAKRADHAR REDDY**
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub:https://github.com/katikamchakri10-ai/
 
 ---
 
